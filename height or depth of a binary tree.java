@@ -1,4 +1,7 @@
 //tree any qs =traversal like LL(O(n)) so tree's bestie=recursion, recursion has base case, self-call , base-case
+//because- Closest Value in a BST with Recursion | by Jasmin Soltani ...Recursion and trees are closely related because the definition of a tree
+// is inherently recursive. A tree is either empty, or it's a node with one or more subtrees, which are themselves trees. This recursive definition 
+//translates perfectly into recursive algorithms for traversing, searching, and manipulating trees
 //M1:
 class Solution {
     // Function to find the height of a binary tree.
