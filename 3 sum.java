@@ -11,7 +11,8 @@ class Solution {
         {
             int j=i+1;//visualize
             int k=nums.length-1;//visualize pic
-            while(j<k)//new than 2 sum
+            while(j<k)//new line, than 2 sum ka code
+            {
             {
                 int sum=nums[j]+nums[k];//simple
                 if(sum==-nums[i])
